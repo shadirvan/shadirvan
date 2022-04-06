@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadirvan
 - 👀 I’m interested in Python, Java and android and Web Development...
-- 🌱 I’m currently learning Android Studio...
-- 📫 How to reach me : DM on Instagram : @shadir.van ...
+- 🌱 I’m currently learning flutter
+- 📫 reach me through my email : shadirvan2021@gmail.com
 
 <!---
 shadirvan/shadirvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
