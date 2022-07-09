@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shadirvan
-- 👀 I’m interested in Python, Java and android and Web Development...
-- 🌱 I’m currently learning flutter and Android studio
+- 👀 I’m interested in Python, and C++
+- 🌱 I’m currently learning C++
 - 📫 reach me through my email : shadirvan2021@gmail.com
 
 <!---
