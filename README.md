@@ -33,6 +33,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadirvan&show_icons=true&locale=en&layout=compact" alt="shadirvan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shadirvan" alt="shadirvan" /></p>
 
 
