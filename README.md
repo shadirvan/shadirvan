@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/shdrvn" target="blank"><img src="https://img.shields.io/twitter/follow/shdrvn?logo=twitter&style=for-the-badge" alt="shdrvn" /></a> </p>
 
-- 🌱 I’m currently learning **flutter app development**
+- 🖥️ I’m currently learning **flutter app development**
 
 - 💬 Ask me about **Flutter, Security, android, unity3d**
 
-- 📫 How to reach me **shadirvan2021@gmail.com**
+- 📬 How to reach me **shadirvan2021@gmail.com**
 
-- ⚡ Fun fact **The gaming industry is worth 30 billion dollars more than the film industry!**
+- 💀 Fun fact **The gaming industry is worth 30 billion dollars more than the film industry!**
 ---
 
 <h3 align="left">Connect with me:</h3>
