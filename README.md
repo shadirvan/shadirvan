@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadirvan</h1>
 <h3 align="center">A passionate app developer and security Analyst from Kerala</h3>
+<img align="top" alt="programming" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 
 <p align="left"> <a href="https://twitter.com/shdrvn" target="blank"><img src="https://img.shields.io/twitter/follow/shdrvn?logo=twitter&style=for-the-badge" alt="shdrvn" /></a> </p>
 
@@ -33,6 +34,13 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shadirvan" alt="shadirvan" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadirvan&show_icons=true&theme=dark&locale=en" alt="shadirvan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadirvan&theme=dark" alt="shadirvan" /></p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadirvan&show_icons=true&theme=dark&locale=en&layout=compact" alt="shadirvan" /></p>
 
