@@ -3,9 +3,9 @@
 
 
 
-- 🖥️ I’m currently learning **flutter app development**
+- 🖥️ I’m currently working with **Flutter Framework**
 
-- 📬 How to reach me **shadirvan2021@gmail.com**
+- 📬 Reach me Through: **shadirvan2021@gmail.com**
 ---
 
 <h3 align="left">My Socials:</h3>
