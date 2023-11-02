@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadirvan</h1>
-<h3 align="center">A passionate app developer and security Analyst from India</h3>
+<h3 align="center">Application Developer and Cyber Security Student</h3>
 <img align="top" alt="programming" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 
 <p align="left"> <a href="https://twitter.com/shdrvn" target="blank"><img src="https://img.shields.io/twitter/follow/shdrvn?logo=twitter&style=for-the-badge" alt="shdrvn" /></a> </p>
