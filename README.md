@@ -2,9 +2,6 @@
 <h3 align="center">Pentration Tester, Front-end Developer</h3>
 
 
-
-- 🖥️ I’m currently working with **Flutter Framework**
-
 - 📬 Reach me Through: **shadirvan2021@gmail.com**
 ---
 
