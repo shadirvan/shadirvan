@@ -12,7 +12,7 @@ Driven cybersecurity enthusiast seeking a SOC Analyst role to turn real-time thr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Security Home Lab</a>|
+| SIEM Implementation and Log Analysis With Splunk        | <a href="https://github.com/shadirvan/Security-Home-Lab">Security Home Lab</a>|
 
 
 ## Tools
