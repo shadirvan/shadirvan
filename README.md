@@ -13,6 +13,8 @@ Driven cybersecurity enthusiast seeking a SOC Analyst role to turn real-time thr
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis With Splunk        | <a href="https://github.com/shadirvan/Security-Home-Lab">Security Home Lab</a>|
+| Network Security | <a href="https://github.com/shadirvan/paw">Port Authenticator and Whitelister</a>|
+| Access Control & Whitelisting | <a href="https://github.com/shadirvan/paw">Port Authenticator and Whitelister</a>|
 
 
 ## Tools
